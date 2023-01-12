@@ -6,3 +6,9 @@
 
 
 Easy as doe ray me
+
+
+**Here are some other pages that might be a little more useful**
+
+* https://liammohler.github.io/cse15l-lab-reports/markdown
+* https://liammohler.github.io/cse15l-lab-reports/labReportOne
