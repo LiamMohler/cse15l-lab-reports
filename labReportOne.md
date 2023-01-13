@@ -12,4 +12,6 @@ Then simply follow the steps to download. Then open it and choose the theme that
 ![image](https://user-images.githubusercontent.com/81714985/212165777-2c294635-3eac-4dff-a2f4-a847bbd8e376.png)
 
 
-**
+**Downloading VS Code** 
+
+To do this
