@@ -7,7 +7,7 @@
 **Downloading VS Code** 
 
 Downloading VS Code should be one of the first steps anyone should take. You can find the download [here](https://code.visualstudio.com/Download).
-Then simply follow the steps to download. Then open it and choose the theme that best suits you. It should look something like this. 
+Then simply follow the steps to download, open, and choose the theme that best suits you. It should look something like this if done correctly.
 
 ![image](https://user-images.githubusercontent.com/81714985/212165777-2c294635-3eac-4dff-a2f4-a847bbd8e376.png)
 
@@ -19,4 +19,4 @@ To do this you fist need to know your course-specific [CSE15L account](https://s
 
 **Trying Some Commands** 
 
-The most fun part of the process, the part where we get to do whatever we want (well whatever wont take the server down). 
+The most fun part of the process, the part where we get to do whatever we want (well whatever won't take the server down). You can us [ls] to list the directories and files in the current folder. You can use [cd] to navigate into different directories and files. You can use [touch] to create a file, and [vi] to edit it. You can use [cat] to read files. For more information on different command line propmts you can either stop being lazy and search it up or click on [this link](https://www.git-tower.com/blog/command-line-cheat-sheet/).
