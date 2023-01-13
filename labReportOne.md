@@ -4,7 +4,7 @@
 
 ---
 
-**Downloading VS Code**
+**Downloading VS Code**. 
 Downloading VS Code should be one of the first steps anyone should take. You can find the download [here](https://code.visualstudio.com/Download).
 Then simply follow the steps to download. Then open it and choose the theme that best suits you. It should look something like this. 
 
