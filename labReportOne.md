@@ -21,7 +21,7 @@ To do this you fist need to know your course-specific [CSE15L account](https://s
 
 **Trying Some Commands** 
 
-The most fun part of the process, the part where we get to do whatever we want (well whatever won't take the server down). You can us [ls] to list the directories and files in the current folder. You can use [cd] to navigate into different directories and files. You can use [touch] to create a file, and [vi] to edit it. You can use [cat] to read files. For more information on different command line propmts you can either stop being lazy and search it up or click on [this link](https://www.git-tower.com/blog/command-line-cheat-sheet/).
+The most fun part of the process, the part where we get to do whatever we want (well whatever won't take the server down). You can us **[ls]** to list the directories and files in the current folder. You can use **[cd]** to navigate into different directories and files. You can use **[touch]** to create a file, and **[vi]** to edit it. You can use **[cat]** to read files. For more information on different command line propmts you can either stop being lazy and search it up or click on [this link](https://www.git-tower.com/blog/command-line-cheat-sheet/).
 
 ![image](https://user-images.githubusercontent.com/81714985/212243627-756f26dc-c5d6-4d92-9d74-8f6f3afe2c2d.png)
 
