@@ -7,7 +7,7 @@
 **Downloading VS Code** 
 
 Downloading VS Code should be one of the first steps anyone should take. You can find the download [here](https://code.visualstudio.com/Download).
-Then simply follow the steps to download, open, and choose the theme that best suits you. It should look something like this if done correctly.
+Then simply follow the steps to download, open, and choose the theme that best suits you. It should look something like this if done correctly. However, VS Code might already be installed on the school computers so make sure to check for that.
 
 ![image](https://user-images.githubusercontent.com/81714985/212165777-2c294635-3eac-4dff-a2f4-a847bbd8e376.png)
 
