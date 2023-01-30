@@ -12,3 +12,4 @@ Easy as doe ray me
 
 * https://liammohler.github.io/cse15l-lab-reports/markdown
 * https://liammohler.github.io/cse15l-lab-reports/labReportOne
+* https://liammohler.github.io/cse15l-lab-reports/labReportTwo
