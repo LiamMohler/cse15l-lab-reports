@@ -8,6 +8,8 @@
 
 <img width="200" alt="Screen Shot 2023-01-29 at 6 03 10 PM" src="https://user-images.githubusercontent.com/81714985/215373432-740f7535-7b2e-4f82-9b90-493e0361386d.png">
 <img width="200" alt="Screen Shot 2023-01-29 at 6 03 40 PM" src="https://user-images.githubusercontent.com/81714985/215373441-a730d2f2-b7c2-4e3f-9734-4bc11d20ba6d.png">
+<img width="703" alt="image" src="https://user-images.githubusercontent.com/81714985/217633305-12b2bc20-a80b-4619-9290-80e44c21a683.png">
+
 
 In these first two images, in which the word "Hello" is added to the web page the method `handleRequest` is called as soon as the user goes to URL. The `handleRequest` method takes the given url and checks to see if it has a path. If it does, it will check to see if the path is equal to `/add`. If it is, then it will split the queury into two parts, making sure that the first part of the query is equal to `s`. Then, it will add it to a string called `str` and add a new line (`\n`). If at any point the path is not `/add` or `/`, or the first part of the query is not `s`, it will return a "404 Not Found!" error message.
 
