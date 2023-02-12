@@ -4,24 +4,25 @@
 
 ---
 
-**Downloading VS Code** 
+**How To Grep** 
 
-Downloading VS Code should be one of the first steps anyone should take. You can find the download [here](https://code.visualstudio.com/Download).
-Then simply follow the steps to download, open, and choose the theme that best suits you. It should look something like this if done correctly. However, VS Code might already be installed on the school computers so if it is you may skip this step.
+Hello, hope you're having a good day. Below are four commands to up your grep game. Oh, and here is a great [site](https://www.geeksforgeeks.org/grep-command-in-unixlinux/) where I learned these commands from!
 
-![image](https://user-images.githubusercontent.com/81714985/212165777-2c294635-3eac-4dff-a2f4-a847bbd8e376.png)
+---
+![image](https://user-images.githubusercontent.com/81714985/218286494-8526007b-015c-40ac-b864-96e6227f7d6c.png)
+![image](https://user-images.githubusercontent.com/81714985/218286643-1a772da9-7b64-41e4-9e0d-c4f76b3b2657.png)
+the first command is `-r` which allows the grep command to recursivly run through files given a pattern, in this case `*`. So essentially, this allows grep to search through every directory for files that contain the given string.
+
+---
+
+![image](https://user-images.githubusercontent.com/81714985/218286509-293dde94-2355-4d63-ac70-59fb717000b4.png)
+![image](https://user-images.githubusercontent.com/81714985/218286674-a7d41dd7-09a7-4d59-a23d-21d1bf494b1d.png)
 
 
-**Remotely Connecting** 
 
-To do this you fist need to know your course-specific [CSE15L account](https://sdacs.ucsd.edu/~icc/index.php). Then, open a terminal on VS Code either by dragging from the bottom or using the top menu bar. Finally, connect! Do this by typing ```$ ssh cs15lwi23zz@ieng6.ucsd.edu``` into the terminal where you replace the "zz" with the 3 letters that make up your unique course-specific account found above. Finally, enter your password. If it seems to not work, do not worry. Try [resetting your password](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit) and making sure that you typed everything in correctly.
-
-![image](https://user-images.githubusercontent.com/81714985/214381638-f9c5d284-07bc-4bc2-a058-fccdea15a937.png)
+![image](https://user-images.githubusercontent.com/81714985/218286538-ac943fd3-79c0-4994-9361-1331108c50c1.png)
+![image](https://user-images.githubusercontent.com/81714985/218286708-de43a3a2-9ded-428c-a15c-cb9550f5fa67.png)
 
 
-**Trying Some Commands** 
-
-The most fun part of the process, the part where we get to do whatever we want (well whatever won't take the server down). You can use ```ls``` to list the directories and files in the current folder. You can use ```cd``` to navigate to different directories and files. You can use ```touch``` to create a file, and ```vi``` to edit it. You can use ```cat``` to read files. For more information on different command line prompts you can either stop being lazy and search it up or click on [this link](https://www.git-tower.com/blog/command-line-cheat-sheet/).
-
-![image](https://user-images.githubusercontent.com/81714985/214382085-a79e8197-024f-4067-8749-2938781af0d4.png)
-
+![image](https://user-images.githubusercontent.com/81714985/218286790-9ef08959-e51c-46a4-9457-a2e69d65e91a.png)
+![image](https://user-images.githubusercontent.com/81714985/218286856-ca8dd07e-4ac0-4bb5-b221-5ef8473c35f2.png)
