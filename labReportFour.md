@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/81714985/221390182-a1c73b6d-4821-4482-9e4e-14a50ff77418.png)
 
-`$ ssh cs15lwi23afn@ieng6.ucsd.edu` -> this command connects computer to the server. (used `<^C> <^V> <enter>` to copy and past from google doc)
+`$ ssh cs15lwi23afn@ieng6.ucsd.edu` -> this command connects computer to the server. (used `<^C> <^V> <enter>` to copy and paste from google doc)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/81714985/221390309-ffa05fb4-5c8f-4bba-b78b-4a5ee7b562aa.png)
 
-`git clone git@github.com:LiamMohler/lab7.git` -> this command will clone the repository using the github link provided. (used `<^C> <^V> <enter>` to copy and past from google doc)
+`git clone git@github.com:LiamMohler/lab7.git` -> this command will clone the repository using the github link provided. (used `<^C> <^V> <enter>` to copy and paste from google doc)
 
 ---
 
@@ -31,9 +31,9 @@
 
 `$ cd lab7/` -> this command will enter the lab7 directory.
 
-`$ javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` -> will compile all the .java files. (used `<^C> <^V> <enter>` to copy and past from google doc)
+`$ javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` -> will compile all the .java files. (used `<^C> <^V> <enter>` to copy and paste from google doc)
 
-`$ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples` -> will run the tester file. (used `<^C> <^V> <enter>` to copy and past from google doc)
+`$ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples` -> will run the tester file. (used `<^C> <^V> <enter>` to copy and paste from google doc)
 
 
 ---
@@ -62,9 +62,9 @@ So change the above code to:
 
 ![image](https://user-images.githubusercontent.com/81714985/221391148-8162a910-cba7-46e2-9c23-ebf478ff60ee.png)
 
-`$ javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` -> will compile all the .java files. (used `<^C> <^V> <enter>` to copy and past from google doc)
+`$ javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` -> will compile all the .java files. (used `<^C> <^V> <enter>` to copy and paste from google doc)
 
-`$ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples` -> will run the tester file. (used `<^C> <^V> <enter>` to copy and past from google doc)
+`$ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples` -> will run the tester file. (used `<^C> <^V> <enter>` to copy and paste from google doc)
 
 The tests work this time!!!!
 
