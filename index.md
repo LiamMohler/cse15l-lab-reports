@@ -14,3 +14,4 @@ Easy as doe ray me
 * https://liammohler.github.io/cse15l-lab-reports/labReportOne
 * https://liammohler.github.io/cse15l-lab-reports/labReportTwo
 * https://liammohler.github.io/cse15l-lab-reports/labReportThree
+* https://liammohler.github.io/cse15l-lab-reports/labReportFour
