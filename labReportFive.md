@@ -22,7 +22,7 @@ In this case, the first line will remove the lab7 directory if it is in the work
 
 **How To Set Up**
 
-I suggest creating a new file with the ".sh" extension in VS code or some other text editor and editing it to your needs then using the `$ scp` command to copy the file into the server. Alternatively, this can all be done in the terminal using commands such as `$ touch` and `$ nano`, but I prefer the former.
+I suggest creating a new file with the `.sh` extension in VS code or some other text editor and editing it to your needs then using the `$ scp` command to copy the file into the server. Alternatively, this can all be done in the terminal using commands such as `$ touch` and `$ nano`, but I prefer the former.
 
 <img width="1186" alt="image" src="https://user-images.githubusercontent.com/81714985/224461507-3b9c9a0b-ec56-4383-92c8-57f94935d704.png">
 
@@ -34,6 +34,8 @@ Now when we log into the server and use `$ ls` we should see the bash script we 
 
 **Running The Script**
 
-<img width="702" alt="image" src="https://user-images.githubusercontent.com/81714985/224461980-0c1fa242-f857-4178-99f6-138d103956e8.png">
-
 Now we're on the easy part. To run the script all you have to do is type `$ bash 'name.sh'` where name is the file name. Then bam! You're done! Told you it would turn quick to quicker. 
+
+<img width="732" alt="image" src="https://user-images.githubusercontent.com/81714985/224462788-0349b490-a03f-4ae0-912b-1651a1ae7656.png">
+
+<img width="684" alt="image" src="https://user-images.githubusercontent.com/81714985/224462803-34092fdb-0131-4a85-ad05-ba8e527290cb.png">
